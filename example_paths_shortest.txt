@@ -1,0 +1,7 @@
+['source', '2', '4', '8', 'target'], cost=7
+['source', '2', '4', '7', '9', 'target'], cost=8
+['source', '1', '4', '8', 'target'], cost=9
+['source', '2', '4', '8', '9', 'target'], cost=9
+['source', '3', '5', '7', '9', 'target'], cost=9
+['source', '1', '6', '7', '9', 'target'], cost=9
+['source', '3', '6', '7', '9', 'target'], cost=9

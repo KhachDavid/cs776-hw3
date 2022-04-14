@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "--edges=example_graph.txt",
+                "--sources=example_sources.txt",
+                "--targets=example_targets.txt",
+                "--out=test.txt",
+                "--flow=3"
+            ]
+        }
+    ]
+}
